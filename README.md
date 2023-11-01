@@ -10,10 +10,13 @@ The project has the following folder structure:
 
 ```
 virtual-devices/
-├── mouse.py
-├── keyboard.py
+├── virtual mouse.py
+├── MajorProjectkeyboard.py
 ├── canvas.py
-└── requirements.txt
+├── keys.py
+├── moveHandDectection.py
+├── HandTracker.py
+└── read me
 ```
 
 ## Installation
